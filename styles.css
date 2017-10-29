@@ -1,0 +1,28 @@
+.back{
+    display: none;
+}
+.form{
+    display: inline-block;
+    height: 500px;
+    width: 247px;
+    vertical-align: top;
+}
+.output{
+    display: inline-block;
+    border: solid black;
+    height: 245px;
+    width: 500px;
+    text-align: center;
+    padding-top: 45px;
+}
+p{
+    width: 450px;
+    height: auto;
+    margin-left: 24px;
+}
+.hide{
+    display: inline;
+}
+.show{
+    display: none;
+}
